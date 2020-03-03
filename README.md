@@ -11,6 +11,9 @@ From developers console google:
 
 Make sure you have the privateKey and privateID with clientEmail in this file.
 
+### API Google
+Activate API from developers console google
+
 ## How to install
 
 ### From maven:
