@@ -37,8 +37,7 @@ Activate API from developers console google
 
 ```java -jar jarName-jar-with-dependencies.jar /path/to/file.json http://googleapi.com...```
 
-Reponse
+## Reponse
 
 Response from library java google auth:
-
-{"access_token":"your_access_token","expires_in":3599,"token_type":"Bearer"}
+```{"access_token":"your_access_token","expires_in":3599,"token_type":"Bearer"}```
